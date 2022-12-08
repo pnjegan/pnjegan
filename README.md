@@ -8,6 +8,12 @@
 <br>  
   
 </div>
+
+#### My Blog
+
+
+
+[Jegan's Blog ](https://cloudjourney.weebly.com/)
 <!--
 **pnjegan/pnjegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
