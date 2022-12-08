@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pnjegan" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pnjegan"/></a></p>
+### Hi Folks 👋
 
 #### About Me
 <div align="center">
