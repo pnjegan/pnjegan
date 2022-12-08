@@ -11,13 +11,12 @@
 
 #### My Blog
 
+[Jegan's Blog ](https://cloudjourney.weebly.com/)
+
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=pnjegan&show_icons=true&theme=tokyonight" 
 />
-
-
-[Jegan's Blog ](https://cloudjourney.weebly.com/)
 <!--
 **pnjegan/pnjegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
