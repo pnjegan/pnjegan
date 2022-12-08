@@ -12,6 +12,10 @@
 #### My Blog
 
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=pnjegan&show_icons=true&theme=tokyonight" 
+/>
+
 
 [Jegan's Blog ](https://cloudjourney.weebly.com/)
 <!--
