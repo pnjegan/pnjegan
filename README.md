@@ -1,7 +1,9 @@
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pnjegan" target="blank"><img src="https://img.shields.io/twitter/follow/Jegan?logo=twitter&style=for-the-badge" alt="pnjegan"/></a></p>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/pnjegan" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Jegan" /></a>
 <a href="mailto:pnjegan@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Jegan" /></a>
+  
+  
 ### Hi Folks 👋
 
 #### About Me
